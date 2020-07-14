@@ -1,4 +1,4 @@
-# flutterarchiteture
+# flutter architeture
 
 A new Flutter application.
 
